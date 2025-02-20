@@ -2,7 +2,7 @@
 const lightGreen = const Color(0xff55efc4);
 const darkGreen = const Color(0xff00b894);
 
-//Blue Theme
+//Black Theme
 const lightBlue = const Color(0xff74b9ff);
 const darkBlue = const Color(0xff0984e3);
 
